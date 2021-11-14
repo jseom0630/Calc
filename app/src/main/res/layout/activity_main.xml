@@ -62,7 +62,7 @@
             android:layout_width="90dp"
             android:layout_height="90dp"
             android:text="÷"
-            android:background="@drawable/button"/>
+            android:background="@drawable/button4"/>
 
     </LinearLayout>
 
@@ -93,7 +93,7 @@
         <Button
             android:layout_width="90dp"
             android:layout_height="90dp"
-            android:background="@drawable/button2"
+            android:background="@drawable/button4"
             android:text="X"/>
 
     </LinearLayout>
@@ -124,7 +124,7 @@
         <Button
             android:layout_width="90dp"
             android:layout_height="90dp"
-            android:background="@drawable/button2"
+            android:background="@drawable/button4"
             android:text="-"/>
 
     </LinearLayout>
@@ -155,7 +155,7 @@
         <Button
             android:layout_width="90dp"
             android:layout_height="90dp"
-            android:background="@drawable/button2"
+            android:background="@drawable/button4"
             android:text="+"/>
 
     </LinearLayout>
@@ -171,7 +171,7 @@
         <Button
             android:layout_width="160dp"
             android:layout_height="80dp"
-            android:background="@drawable/button2"
+            android:background="@drawable/button3"
             android:layout_marginRight="10dp"
             android:text="0"
             android:textAlignment="viewStart"
@@ -185,7 +185,7 @@
         <Button
             android:layout_width="90dp"
             android:layout_height="90dp"
-            android:background="@drawable/button2"
+            android:background="@drawable/button4"
             android:text="="
 
 

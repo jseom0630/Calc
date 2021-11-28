@@ -22,22 +22,23 @@
 
     </item>
 
-<!--    &lt;!&ndash; click &ndash;&gt;-->
-<!--    <item android:state_focused="false" android:state_pressed="true">-->
-<!--        <shape android:shape="oval">-->
-<!--            &lt;!&ndash;원형&ndash;&gt;-->
-<!--            <corners android:bottomRightRadius="20dp"-->
-<!--                android:bottomLeftRadius="20dp"-->
-<!--                android:topRightRadius="20dp"-->
-<!--                android:topLeftRadius="20dp"/>-->
+    <!-- click -->
+    <item android:state_focused="false" android:state_pressed="true">
+        <shape android:shape="oval">
+            <!--원형-->
+            <corners android:bottomRightRadius="20dp"
+                android:bottomLeftRadius="20dp"
+                android:topRightRadius="20dp"
+                android:topLeftRadius="20dp"/>
 
-<!--            &lt;!&ndash; 색상 &ndash;&gt;-->
-<!--            <solid android:color="#38000000" />-->
+            <!-- 색상 -->
+            <solid android:color="#fe6b38" />
 
-<!--            &lt;!&ndash; 테두리 설정 &ndash;&gt;-->
-<!--            <stroke-->
-<!--                android:width="3dp"-->
-<!--                android:color="@color/colorAccentDark" />-->
-<!--        </shape>-->
-<!--    </item>-->
+            <!-- 테두리 설정 -->
+            <stroke
+                android:width="3dp"
+                android:color="#fe6b38" />
+        </shape>
+    </item>
+
 </selector>
